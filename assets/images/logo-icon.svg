@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 width="34px" height="34px" viewBox="0 0 346.1 351.3" enable-background="new 0 0 346.1 351.3" xml:space="preserve">
+	<title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+	<circle fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" cx="173" cy="175.7" r="159.3"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="15" stroke-miterlimit="10" d="M232.8,113.6h-53.6c-5.7,0-10.4,4.7-10.4,10.4
+		c0,5.7,4.7,10.4,10.4,10.4h53.6c18.9,0,34.2,15.4,34.2,34.2v19.9c0,18.9-15.4,34.2-34.2,34.2h-3.1c-7.1,0-13.7-3.5-17.6-9.4
+		l-53.8-81c-7.8-11.7-20.8-18.7-34.9-18.7h-10.2c-30.3,0-55,24.7-55,55v19.9c0,30.3,24.7,55,55,55H173c5.7,0,10.4-4.7,10.4-10.4
+		c0-5.7-4.7-10.4-10.4-10.4h-59.8c-18.9,0-34.2-15.4-34.2-34.2v-19.9c0-18.9,15.4-34.2,34.2-34.2h10.2c7.1,0,13.7,3.5,17.6,9.4
+		l53.8,81c7.8,11.7,20.8,18.7,34.9,18.7h3.1c30.3,0,55-24.7,55-55v-19.9C287.8,138.3,263.1,113.6,232.8,113.6z"
+	sketch:type="MSShapeGroup"/>
+</g>
+</svg>
